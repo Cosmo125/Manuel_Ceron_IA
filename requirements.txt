@@ -1,0 +1,40 @@
+# Bibliotecas fundamentales
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Deep Learning
+tensorflow>=2.8.0
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Procesamiento de Lenguaje Natural
+nltk>=3.6.0
+spacy>=3.4.0
+transformers>=4.15.0
+
+# Computer Vision
+opencv-python>=4.5.0
+pillow>=8.3.0
+
+# Herramientas de análisis y visualización
+plotly>=5.5.0
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Utilidades
+tqdm>=4.62.0
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+
+# Desarrollo y testing
+pytest>=6.2.0
+black>=21.9.0
+flake8>=4.0.0
